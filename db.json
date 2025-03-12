@@ -1,0 +1,89 @@
+
+{
+  
+    "categories": [
+      { "id": 1, "title": "Refrigerator" },
+      { "id": 2, "title": "Mobile Phone" },
+      { "id": 3, "title": "Television" },
+      {"id": 6, "title": "Microwave" },
+      {"id": 8, "title": "Play Station" },
+      { "id": 4, "title": "Washing Machine" },
+      {"id": 5, "title": "Air Conditioner" },
+      {"id": 7, "title": "Cooker" }
+    ],
+    "products": [
+      { 
+        "id": 1, "cid": 1, 
+      "title": "Intellifresh 431L 2 Star Platina Frost Free Double-Door Refrigerator" , "img":"https://whirlpoolindia.vtexassets.com/arquivos/ids/167400-800-auto?v=638241500632370000&width=800&height=auto&aspect=true" ,
+       "price":"₹53,590",
+       "desc":"The Whirlpool Intellifresh 431L 2 Star Frost Free Double-Door Refrigerator is designed to meet the needs of large families, offering a substantial 431-liter capacity. Its 2-star energy rating ensures moderate energy efficiency, balancing performance with energy consumption.",
+       "warranty":"Comes with a 1-year comprehensive warranty on the product and a 9-year warranty on the compressor, ensuring peace of mind and reliable service."
+     },
+
+
+      {
+         "id": 1, "cid": 2,
+          "title": "LG 630L, Side-by-Side Refrigerator, InstaView, Matte Black" , "img":"https://www.lg.com/content/dam/channel/wcms/in/images/refrigerators/gl-x257amc3_dmczebn_eail_in_c/gallery/GL-X257AMC3-Basic-450.jpg" , 
+         "price":"₹1,74,990","desc":"The LG 630L Side-by-Side Refrigerator with InstaView in Matte Black is a premium appliance designed to enhance both the aesthetics and functionality of your kitchen."
+         ,"warranty":"The LG 630L InstaView Matte Black Refrigerator comes with a 1-year comprehensive warranty and a 10-year warranty on the Smart Inverter Compressor."
+    },
+
+    {
+      "id": 8, "cid": 16,
+       "title": "Play Station 5" , "img":"https://m.media-amazon.com/images/I/51ljnEaW0pL.jpg" , 
+      "price":"₹50,000","desc":"The PlayStation 5 (PS5) is Sony's latest-generation gaming console, offering cutting-edge performance, immersive gameplay, and stunning visuals. It features a custom 8-core AMD Zen 2 CPU, RDNA 2 GPU, 16GB GDDR6 RAM, and a lightning-fast SSD for near-instant load times. The PS5 supports 4K gaming, ray tracing, and up to 120 FPS for select titles, delivering lifelike graphics and fluid motion."
+      ,"warranty":"The PlayStation 5 typically comes with a one-year limited warranty covering manufacturing defects. Additional warranty or extended coverage options may be available depending on the retailer or region."
+ },
+
+
+      { "id": 1, "cid": 9, "title": "Samsung 465 L 3 Star Frost Free Double Door Refrigerator(RT47K6358SL/TL, EZ Clean Steel, Convertible)" , "img":"https://dailydeals365.in/wp-content/uploads/2023/01/Untitled-2-1.webp" , 
+      "price":"₹43,000"  , "desc":"The Samsung 465 L 3 Star Frost Free Double Door Refrigerator (Model: RT47K6358SL/TL) is a versatile and energy-efficient appliance designed to meet the needs of medium to large-sized families." , "warranty":"The Samsung 465L refrigerator comes with a 1-year product warranty and a 10-year compressor warranty for long-term reliability."} ,
+      {"id":4 , "cid":7 , "title":"LG 7 Kg, 5 Star, Direct Drive Technology, Steam Wash", "img":"https://m.media-amazon.com/images/I/71c8a4qWdoL.jpg"  , "price":"₹28,790" , "desc":"The LG 7 kg 5 Star Fully-Automatic Front Load Washing Machine is designed to deliver superior washing performance with enhanced energy efficiency." , "warranty":"The LG 7 kg washing machine offers a 2-year product warranty and a 10-year motor warranty for durability and peace of mind."},
+      {
+        "id":3 , "cid":13 ,
+      "title":"Apple TV 4K",
+       "img":"https://www.apple.com/newsroom/images/product/tv/standard/Apple-TV-4K-hero-221018_big.jpg.large.jpg" ,"price":"₹1,49,000",
+       "desc":"The Apple TV 4K is a premium streaming device that delivers exceptional audio and video quality, seamlessly integrating with Apple's ecosystem and smart home accessories.",
+       "warranty":"The Apple TV 4K comes with a 1-year limited warranty for the product and up to 90 days of complimentary technical support. Additionally, you can purchase the AppleCare+ plan for extended coverage, which provides up to 3 years of service, including accidental damage coverage."
+      },
+
+      {
+        "id":7 , "cid":14 ,
+      "title":"Prestige Popular Virgin Aluminium Precision Weight Valve Outer Lid Pressure Cooker, 5 L",
+       "img":"https://m.media-amazon.com/images/I/514M+UZ5bhL.jpg" ,"price":"₹1,709",
+       "desc":"Crafted for modern kitchens, the Prestige Popular Outer Lid Pressure Cooker offers the perfect blend of durability, efficiency, and safety. Made from high-grade virgin aluminum, this cooker ensures long-lasting performance and even heat distribution for faster cooking.",
+       "warranty":"The Prestige Popular Pressure Cooker comes with a 5-year warranty, ensuring reliable performance and peace of mind. It covers manufacturing defects and provides long-term support."
+      },
+
+      {"id":3 , "cid":5 , 
+      "title":"SONY Bravia 80 cm (32 inch) HD Ready 3D LED Smart Android TV  (KD-32W830)", "img":"https://rukminim2.flixcart.com/image/850/1000/xif0q/television/i/n/q/kd-32w830k-kd-32w830-sony-original-imah493mdsxew9rq.jpeg?q=90&crop=false", "price":"₹28,790" ,"desc":"The Sony Bravia 80 cm (32 inch) HD Ready 3D LED Smart Android TV (model KD-32W830K) offers a blend of advanced features and user-friendly design." , "warranty":"The Sony Bravia 80 cm (32 inch) HD Ready 3D LED Smart Android TV comes with a 1-year limited warranty."},
+      {"id":3 , "cid":6 ,
+       "title":"LG 65 (165.1 cm) LG UHD AI UT80 4K Smart TV ", 
+       "img":"https://www.lg.com/content/dam/channel/wcms/in/images/tvs/65ut80406la_atr_eail_c/gallery/uhd-65ut80-a-gallery-01.jpg/_jcr_content/renditions/thum-1600x1062.jpeg" ,
+        "price":"₹79,999" ,
+        "desc":"The LG 65-inch UHD AI UT80 4K Smart TV (model 65UT80006LA) combines advanced technology with user-friendly features to enhance your viewing experience.",
+        "warranty":"The LG 65-inch UHD AI UT80 4K Smart TV comes with a 1-year limited warranty."
+      },
+      {"id":2 , "cid":3 ,"desc":"The iPhone 15 combines cutting-edge technology with user-friendly features, making it a compelling choice for those seeking a premium smartphone experience." , "warranty":"The iPhone 15 comes with a 1-year limited warranty for the device. Additionally, you receive 90 days of complimentary technical support from Apple." ,  "title":"Iphone 15", "img":"https://www.designinfo.in/wp-content/uploads/2024/05/Apple-iPhone-15-128-GB-Blue-1-485x485-optimized.webp" , "price":"₹69,900"},
+      {"id":2 , "cid":4 ,  "warranty":"The Samsung Galaxy A17 comes with a 1-year limited warranty for the device. Additionally, it offers 6 months of warranty for accessories such as the charger and cable.", "desc":"The Samsung Galaxy A17 is designed for users seeking a reliable smartphone with a large display, capable camera system, and robust battery life, all at an affordable price point." ,"title":"Samsung Galaxy A17", "img":"https://www.ectgadget.com/assets/images/products/746046_Samsung-Galaxy-A17-5G.webp" , "price":"₹35,999"},
+
+      {
+        "id": 8, "cid": 17,
+         "title": "X-Box" , "img":"https://images-cdn.ubuy.co.in/633ff251dead516ade1f16ab-x-box-series-s-all-digital-console.jpg" , 
+        "price":"₹33,000","desc":"The Xbox Series X and Series S are Microsoft’s latest-generation gaming consoles, delivering powerful performance and immersive gaming experiences. The Xbox Series X is the flagship model, featuring a custom 8-core AMD Zen 2 CPU, RDNA 2 GPU capable of up to 12 teraflops, 16GB GDDR6 RAM, and a 1TB SSD. It supports 4K gaming at up to 120 FPS, ray tracing, and quick load times with its Velocity Architecture."
+        ,"warranty":"Xbox consoles, including the Series X and Series S, typically come with a one-year limited warranty (or longer, depending on the region). This warranty covers manufacturing defects and hardware failures, but it does not include accidental damage or issues caused by misuse."
+   },
+
+
+      {"id":2 , "cid":11 , "desc":"The iPhone 16 combines cutting-edge technology with user-friendly features, making it a compelling choice for those seeking a premium smartphone experience." , "warranty":"The iPhone 16 comes with a 1-year limited warranty for the device. Additionally, you receive 90 days of complimentary technical support from Apple." , "title":"Iphone 16", "img":"https://m.media-amazon.com/images/I/713SsA7gftL._AC_UF1000,1000_QL80_.jpg" , "price":"₹78,900"},
+      {"id":2 ,"warranty":"The Vivo V19 comes with a 1-year limited warranty." ,  "cid":12 , "desc":"The Vivo V19 combines a large display, capable processors, and a versatile camera system, making it suitable for users seeking a balanced smartphone experience." , "title":"Vivo V19", "img":"https://www.themobileindian.com/wp-content/uploads/2021/07/60f4e8ef9854a-188x351.png", "price":"₹36,990" },
+      {"id":5 , "cid":15 ,
+       "title":"O-General 1.5 Ton 5 Star Split AC ", 
+       "img":"https://rukminim2.flixcart.com/image/850/1000/kfsl18w0/air-conditioner-new/t/v/f/asga18ftta-mps-1-5-split-o-general-fixed-speed-original-imafw5vhuhypsdkn.jpeg?q=20&crop=false" ,
+        "price":"₹61,999" ,
+        "desc":"The O-General 1.5 Ton 5 Star Inverter Split Air Conditioner (AC) is a high-performance cooling system designed to provide efficient and consistent cooling in medium-sized rooms (approximately 150–180 sq. ft.). Here are the key features and specifications typically associated with this model",
+        "warranty":"The O-General 1.5 Ton 5 Star Inverter Split AC comes with a 1-year comprehensive warranty on the complete unit and a 5-year warranty on the compressor. Coverage includes manufacturing defects but excludes physical damage and improper usage."
+      }
+    ]
+}
+  
